@@ -1,6 +1,6 @@
 # Reproducibility Package — README
 
-## AI-Driven Cybersecurity: A Structured Survey of Defense, Offense, Autonomy, and Emerging Security Challenges
+## Toward Trustworthy Autonomous Cybersecurity: A Capability-Readiness Framework, Attack-Surface Taxonomy, and Reference Architecture for Agentic AI
 
 **Authors:** Nameet Sudam Ahire, Dayanand D. Ambawade  
 **Institution:** Sardar Patel Institute of Technology, Mumbai, India  
